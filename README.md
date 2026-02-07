@@ -30,7 +30,7 @@ Aplikasi ini memenuhi seluruh kriteria teknis yang diminta, antara lain:
 
 1.  **Clone Repository**
     ```bash
-    git clone [https://github.com/moonux304/QUIZsy.git](https://github.com/moonux304/QUIZsy.git)
+    git clone https://github.com/moonux304/QUIZsy.git
     cd nama-repo
     ```
 
@@ -43,9 +43,3 @@ Aplikasi ini memenuhi seluruh kriteria teknis yang diminta, antara lain:
     ```bash
     npm run dev
     ```
-
-## 📺 Demo Video
-Anda dapat melihat penjelasan fitur dan demo teknis aplikasi melalui tautan Loom berikut:
-👉 **[Link Video Loom Kamu Disini]**
-
----
