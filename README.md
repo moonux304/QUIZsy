@@ -30,7 +30,7 @@ Aplikasi ini memenuhi seluruh kriteria teknis yang diminta, antara lain:
 
 1.  **Clone Repository**
     ```bash
-    git clone [https://github.com/username-kamu/nama-repo.git](https://github.com/username-kamu/nama-repo.git)
+    git clone [https://github.com/moonux304/QUIZsy.git](https://github.com/moonux304/QUIZsy.git)
     cd nama-repo
     ```
 
