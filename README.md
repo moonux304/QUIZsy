@@ -24,7 +24,6 @@ Aplikasi ini memenuhi seluruh kriteria teknis yang diminta, antara lain:
 * **Styling**: Tailwind CSS
 * **State Management**: React Hooks (`useState`, `useEffect`)
 * **Data Source**: [Open Trivia DB API](https://opentdb.com/)
-* **Deployment**: [Sebutkan platform jika kamu deploy, misal: Vercel / Netlify / GitHub Pages]
 
 ## 📦 Cara Menjalankan Project
 
